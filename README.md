@@ -1,0 +1,1 @@
+this quiz-app is created with react + redux 
